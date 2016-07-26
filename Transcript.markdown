@@ -372,10 +372,6 @@ Thank you, and good night. Thank you.
 ## Footnotes
 
 <ol>
-<li id="fn-1">
-<p>
-More information can be found at <a href="http://www.brianbates.co.uk/">www.brianbates.co.uk</a>.<a title="Return to article" href="#Bates">↩</a></p>
-</li>
 
 <li id="fn-2">
 <p>
@@ -399,7 +395,7 @@ More information can be found at <a href="http://www.brianbates.co.uk/">www.bria
 </li>
 
 <li id="fn-7">
-<p>More information at <a href="http://www.edwdebono.com/http://www.edwdebono.com/">edwdebono.com</a>. The book,
+<p>More information at <a href="http://www.edwdebono.com/">edwdebono.com</a>. The book,
 <a href="http://www.amazon.com/Po-Beyond-Edward-De-Bono/dp/0140137823">Po: Beyond Yes and No</a>,
 appears to be out of print.<a title="Return to article" href="#debono">↩</a></p>
 </li>
