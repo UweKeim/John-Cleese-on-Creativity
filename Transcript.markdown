@@ -4,7 +4,7 @@ You know, when Video Arts asked me if I'd like to talk about creativity I said "
 
 I knew it would be particularly easy for me because I've spent the last 25 years watching how various creative people produce their stuff, and being fascinating to see if I could figure out what makes folk, including me, more creative.
 
-What is more, a couple of years ago I got very excited because a friend of mine who runs the psychology department at Sussex University, Brian Bates, showed me some research on creativity done at Berkley in the 70s by a brilliant psychologist called Donald MacKinnon<sup id="MacKinnon"><a href="#fn-2">2</a></sup> which seemed to confirm in the most impressively scientific way all the vague observations and intuitions that I'd had over the years.
+What is more, a couple of years ago I got very excited because a friend of mine who runs the psychology department at Sussex University, Brian Bates, showed me some research on creativity done at Berkley in the 70s by a brilliant psychologist called Donald MacKinnon<sup id="MacKinnon"><a href="#fn-2">1</a></sup> which seemed to confirm in the most impressively scientific way all the vague observations and intuitions that I'd had over the years.
 
 The prospect of settling down for quite serious study of creativity for the purpose of tonight's gossip was delightful. Having spent several weeks on it, I can state categorically that what I have to tell you tonight about how you can all become more creative is a complete waste of time.
 
@@ -42,7 +42,7 @@ Indeed he described the most creative (when in this mood) as being *childlike*. 
 
 Now, about this mood.
 
-I'm working at the moment with Dr. Robin Skynner<sup id="Skynner"><a href="#fn-3">3</a></sup> on a successor to our psychiatry book _Families and How To Survive Them_<sup id="book"><a href="#fn-4">4</a></sup> we're comparing the ways in which *psychologically healthy families* function (the ways in which such families function) with the ways in which the most successful corporations and organizations function.
+I'm working at the moment with Dr. Robin Skynner<sup id="Skynner"><a href="#fn-3">2</a></sup> on a successor to our psychiatry book _Families and How To Survive Them_<sup id="book"><a href="#fn-4">3</a></sup> we're comparing the ways in which *psychologically healthy families* function (the ways in which such families function) with the ways in which the most successful corporations and organizations function.
 
 We've become *fascinated* by the fact that we can usually describe the way in which people function at work in terms of two modes: open and closed.
 
@@ -74,7 +74,7 @@ It's a mood in which *curiosity for its own sake* can operate because we're not 
 
 Let me give you and example of what I mean.
 
-When Alexander Fleming<sup id="Fleming"><a href="#fn-5">5</a></sup> had the thought that led to the discovery of penicillin, he must have been in the *open mode*.
+When Alexander Fleming<sup id="Fleming"><a href="#fn-5">4</a></sup> had the thought that led to the discovery of penicillin, he must have been in the *open mode*.
 
 The previous day, he'd arranged a number of dishes to that culture would grow upon them.
 
@@ -156,7 +156,7 @@ Next: Time. It's not enough to create space, you have to create your space for *
 
 And it's only by having a specific moment when your space starts and an equally specific moment when your space *stops* that you can seal yourself off from the every day closed mode in which we all habitually operate.
 
-And I'd never realized how vital this was until I read a historical study of play by a Dutch historian called Johan Huizinga<sup id="Huizinga"><a href="#fn-6">6</a></sup> and in it he says "Play is distinct from ordinary life, both as to locality and duration. This is its main characteristic: its secludedness, its limitedness. Play begins and then (at a certain moment) it is over. Otherwise, it's not play." (14:55)
+And I'd never realized how vital this was until I read a historical study of play by a Dutch historian called Johan Huizinga<sup id="Huizinga"><a href="#fn-6">5</a></sup> and in it he says "Play is distinct from ordinary life, both as to locality and duration. This is its main characteristic: its secludedness, its limitedness. Play begins and then (at a certain moment) it is over. Otherwise, it's not play." (14:55)
 
 So combining the first two factors we create an "oasis of quiet" for ourselves by setting the boundaries of space and of time.
 
@@ -322,7 +322,7 @@ So as you play you can deliberately try inventing these random juxtapositions, a
 
 And, of course, you'll produce some juxtapositions which are absolutely ridiculous, absurd. Good for you!
 
-Because Edward de Bono<sup id="debono"><a href="#fn-7">7</a></sup> (who invented the notion of lateral thinking) specifically suggests in his book _PO: Beyond Yes and No_ that you can try loosening up your assumptions by playing with *deliberately* crazy connections. He calls such absurd ideas "Intermediate Impossibles."
+Because Edward de Bono<sup id="debono"><a href="#fn-7">6</a></sup> (who invented the notion of lateral thinking) specifically suggests in his book _PO: Beyond Yes and No_ that you can try loosening up your assumptions by playing with *deliberately* crazy connections. He calls such absurd ideas "Intermediate Impossibles."
 
 And he points out the use of an Intermediate Impossible is completely contrary to ordinary logical thinking in which you have to be right at each stage.
 
