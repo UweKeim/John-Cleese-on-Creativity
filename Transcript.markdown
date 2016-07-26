@@ -140,7 +140,7 @@ Nevertheless I can at least tell you how to get yourselves into the open mode. Y
 4. Confidence
 5. a 22 inch waist
 
-Sorry, my mind was wondering. I'm getting into the open mode too quickly. Instead of a 22 inch waist, you need *humor*. I do beg your pardon.
+Sorry, my mind was wandering. I'm getting into the open mode too quickly. Instead of a 22 inch waist, you need *humor*. I do beg your pardon.
 
 ### First: Space (13:20)
 
